@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jack.FoodTracker-MDI.UI", "Jack.FoodTracker-MDI\Jack.FoodTracker-MDI.UI.csproj", "{5D4E276A-DF62-40FA-A366-891F3E1017A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jack.FoodTracker.Entities", "Jack.FoodTracker.Entities\Jack.FoodTracker.Entities.csproj", "{0E22F9C2-2080-4091-8BE3-8D04CA2F81BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jack.FoodTracker.EntityDatabase", "Jack.FoodTracker.EntityDatabase\Jack.FoodTracker.EntityDatabase.csproj", "{15DF2C82-EBC3-4129-B969-506BC5323D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jack.FoodTracker", "Jack.FoodTracker\Jack.FoodTracker.csproj", "{911CB23A-BDB8-4334-A4C5-159321ACE691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4E276A-DF62-40FA-A366-891F3E1017A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4E276A-DF62-40FA-A366-891F3E1017A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4E276A-DF62-40FA-A366-891F3E1017A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4E276A-DF62-40FA-A366-891F3E1017A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E22F9C2-2080-4091-8BE3-8D04CA2F81BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E22F9C2-2080-4091-8BE3-8D04CA2F81BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E22F9C2-2080-4091-8BE3-8D04CA2F81BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E22F9C2-2080-4091-8BE3-8D04CA2F81BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DF2C82-EBC3-4129-B969-506BC5323D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DF2C82-EBC3-4129-B969-506BC5323D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DF2C82-EBC3-4129-B969-506BC5323D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DF2C82-EBC3-4129-B969-506BC5323D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911CB23A-BDB8-4334-A4C5-159321ACE691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911CB23A-BDB8-4334-A4C5-159321ACE691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911CB23A-BDB8-4334-A4C5-159321ACE691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911CB23A-BDB8-4334-A4C5-159321ACE691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
